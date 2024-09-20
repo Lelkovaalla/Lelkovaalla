@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" height="350" src="https://github.com/Lelkovaalla/Lelkovaalla/blob/main/data-analytics-with-line-graph.gif"  alt="animated" />
+  <img width="175" height="175" src="https://github.com/Lelkovaalla/Lelkovaalla/blob/main/data-analytics-with-line-graph.gif"  alt="animated" />
 </p>
 
 ### <p align="center">Привет, меня зовут Алла! 👋</p>
